@@ -1,0 +1,278 @@
+﻿  button.cpp
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\button.cpp(26,47): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\button.cpp(63,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\button.cpp(65,75): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\button.cpp(68,40): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\button.cpp(69,40): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\button.cpp(70,22): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\button.cpp(71,22): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\button.cpp(80,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\button.cpp(80,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  cCorridor.cpp
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\cCorridor.cpp(12,39): warning C4267: 'argument': conversion from 'size_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\cCorridor.cpp(16,34): warning C4267: 'argument': conversion from 'size_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\cCorridor.cpp(27,39): warning C4267: 'argument': conversion from 'size_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\cCorridor.cpp(31,34): warning C4267: 'argument': conversion from 'size_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\cCorridor.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\cCorridor.cpp(44,21): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\cCorridor.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\cCorridor.cpp(58,21): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\cCorridor.cpp(75,20): warning C4018: '<': signed/unsigned mismatch
+  chamber.cpp
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\chamber.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\chamber.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+  corridor.cpp
+  creators_screen.cpp
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\creators_screen.cpp(6,70): warning C4305: 'argument': truncation from 'double' to 'const float'
+  cRoom.cpp
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\cRoom.cpp(16,22): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\cRoom.cpp(28,16): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\cRoom.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\cRoom.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\cRoom.cpp(46,21): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\cRoom.cpp(69,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\cRoom.cpp(75,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\cRoom.cpp(82,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\cRoom.cpp(88,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\cRoom.cpp(114,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\cRoom.cpp(117,21): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\cRoom.cpp(139,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\cRoom.cpp(149,20): warning C4018: '<': signed/unsigned mismatch
+  difficult_screen.cpp
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\difficult_screen.cpp(7,72): warning C4305: 'argument': truncation from 'double' to 'const float'
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\difficult_screen.cpp(8,70): warning C4305: 'argument': truncation from 'double' to 'const float'
+  graphic_name.cpp
+  graph_creator.cpp
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(32,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(34,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(34,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(70,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(70,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(72,22): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(74,85): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(74,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(81,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(81,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(84,22): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(86,93): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(86,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(104,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(104,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(107,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(107,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(129,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(129,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(132,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(132,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(146,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(153,17): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(430,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(435,22): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(444,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(450,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(453,21): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(458,23): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(468,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(486,21): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(488,22): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(493,24): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(527,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(527,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(530,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(530,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(551,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(551,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(554,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(554,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(566,21): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(569,22): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(578,23): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(585,9): warning C4305: 'argument': truncation from 'double' to 'const float'
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(590,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(590,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(592,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\graph_creator.cpp(592,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  level.cpp
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\level.cpp(144,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\level.cpp(152,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\level.cpp(155,21): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\level.cpp(170,22): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\level.cpp(267,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  menu_controller.cpp
+  myRoom.cpp
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\myRoom.cpp(8,21): warning C4305: 'argument': truncation from 'double' to 'const float'
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\myRoom.cpp(323,21): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\myRoom.cpp(335,20): warning C4018: '<': signed/unsigned mismatch
+  rand2.cpp
+  sCorridor.cpp
+  scr_with_butt.cpp
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\scr_with_butt.cpp(36,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\scr_with_butt.cpp(36,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  segment.cpp
+  size_level_screen.cpp
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\size_level_screen.cpp(7,72): warning C4305: 'argument': truncation from 'double' to 'const float'
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\size_level_screen.cpp(8,71): warning C4305: 'argument': truncation from 'double' to 'const float'
+  size_room_screen.cpp
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\size_room_screen.cpp(7,72): warning C4305: 'argument': truncation from 'double' to 'const float'
+  start_screen.cpp
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\start_screen.cpp(7,74): warning C4305: 'argument': truncation from 'double' to 'const float'
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\start_screen.cpp(8,70): warning C4305: 'argument': truncation from 'double' to 'const float'
+  Compiling...
+  sRoom.cpp
+  text_display.cpp
+  text_display2.cpp
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\text_display2.cpp(12,22): warning C4018: '<': signed/unsigned mismatch
+  with_map_scr.cpp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\menu_controller.cpp(224): warning C4715: 'menuController::creatorsView': not all control paths return a value
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\menu_controller.cpp(177): warning C4715: 'menuController::difficultChoose': not all control paths return a value
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\menu_controller.cpp(153): warning C4715: 'menuController::roomSizeChoose': not all control paths return a value
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\menu_controller.cpp(129): warning C4715: 'menuController::levelSizeChoose': not all control paths return a value
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\menu_controller.cpp(68): warning C4715: 'menuController::start': not all control paths return a value
+D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\nether_region_generator_alpha2\menu_controller.cpp(105): warning C4715: 'menuController::newMap': not all control paths return a value
+  All 1262 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  nether_region_generator_alpha2.vcxproj -> D:\Documents\sztudyja\pk4\43112489-gr11-repo\Projekt\Release\nether_region_generator_alpha2.exe

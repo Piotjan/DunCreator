@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\segments">
+      <UniqueIdentifier>{8fecb16d-d5b4-4806-bdb1-34d57fe8feb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\chambers">
+      <UniqueIdentifier>{129a3aa3-5c9b-47c9-8749-d6d2fe81edf0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\chambers">
+      <UniqueIdentifier>{569dedb8-dad4-4af0-88b5-4c2f506a7ed4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\segments">
+      <UniqueIdentifier>{83b5de0d-0361-4cd5-93b8-1b25331e1479}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\notClasses">
+      <UniqueIdentifier>{34316d82-7ce0-4b2b-ac30-3e67ada339ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\containers">
+      <UniqueIdentifier>{a30c2740-4542-475a-a62c-7749b8c24038}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\containers">
+      <UniqueIdentifier>{308e5dac-71d8-4214-868e-1a9f29105364}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\text_output">
+      <UniqueIdentifier>{3632617e-780d-45a4-9a5f-08f9b093a738}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\graphic">
+      <UniqueIdentifier>{23f26dfb-da7d-4fec-b6bb-7cd354ba133b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\graphic">
+      <UniqueIdentifier>{58fdf268-380c-4ae0-bd8c-13de0be1ef81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\graphic\screens">
+      <UniqueIdentifier>{bf086a83-0df8-4b86-b557-e4ce85ff8986}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\graphic\screens">
+      <UniqueIdentifier>{74222a71-2ff0-44e9-8bfa-8b866553a776}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="level.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="chamber.cpp">
+      <Filter>Source Files\chambers</Filter>
+    </ClCompile>
+    <ClCompile Include="corridor.cpp">
+      <Filter>Source Files\chambers</Filter>
+    </ClCompile>
+    <ClCompile Include="myRoom.cpp">
+      <Filter>Source Files\chambers</Filter>
+    </ClCompile>
+    <ClCompile Include="sCorridor.cpp">
+      <Filter>Source Files\segments</Filter>
+    </ClCompile>
+    <ClCompile Include="sRoom.cpp">
+      <Filter>Source Files\segments</Filter>
+    </ClCompile>
+    <ClCompile Include="segment.cpp">
+      <Filter>Source Files\segments</Filter>
+    </ClCompile>
+    <ClCompile Include="rand2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cRoom.cpp">
+      <Filter>Source Files\containers</Filter>
+    </ClCompile>
+    <ClCompile Include="cCorridor.cpp">
+      <Filter>Source Files\containers</Filter>
+    </ClCompile>
+    <ClCompile Include="text_display.cpp">
+      <Filter>Source Files\text_output</Filter>
+    </ClCompile>
+    <ClCompile Include="text_display2.cpp">
+      <Filter>Source Files\text_output</Filter>
+    </ClCompile>
+    <ClCompile Include="graphic_name.cpp">
+      <Filter>Source Files\graphic</Filter>
+    </ClCompile>
+    <ClCompile Include="graph_creator.cpp">
+      <Filter>Source Files\graphic</Filter>
+    </ClCompile>
+    <ClCompile Include="button.cpp">
+      <Filter>Source Files\graphic</Filter>
+    </ClCompile>
+    <ClCompile Include="scr_with_butt.cpp">
+      <Filter>Source Files\graphic\screens</Filter>
+    </ClCompile>
+    <ClCompile Include="size_level_screen.cpp">
+      <Filter>Source Files\graphic\screens</Filter>
+    </ClCompile>
+    <ClCompile Include="start_screen.cpp">
+      <Filter>Source Files\graphic\screens</Filter>
+    </ClCompile>
+    <ClCompile Include="size_room_screen.cpp">
+      <Filter>Source Files\graphic\screens</Filter>
+    </ClCompile>
+    <ClCompile Include="difficult_screen.cpp">
+      <Filter>Source Files\graphic\screens</Filter>
+    </ClCompile>
+    <ClCompile Include="menu_controller.cpp">
+      <Filter>Source Files\graphic</Filter>
+    </ClCompile>
+    <ClCompile Include="creators_screen.cpp">
+      <Filter>Source Files\graphic\screens</Filter>
+    </ClCompile>
+    <ClCompile Include="with_map_scr.cpp">
+      <Filter>Source Files\graphic\screens</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="level.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sCorridor.h">
+      <Filter>Header Files\segments</Filter>
+    </ClInclude>
+    <ClInclude Include="sRoom.h">
+      <Filter>Header Files\segments</Filter>
+    </ClInclude>
+    <ClInclude Include="segment.h">
+      <Filter>Header Files\segments</Filter>
+    </ClInclude>
+    <ClInclude Include="corridor.h">
+      <Filter>Header Files\chambers</Filter>
+    </ClInclude>
+    <ClInclude Include="chamber.h">
+      <Filter>Header Files\chambers</Filter>
+    </ClInclude>
+    <ClInclude Include="myRoom.h">
+      <Filter>Header Files\chambers</Filter>
+    </ClInclude>
+    <ClInclude Include="structures.h">
+      <Filter>Header Files\notClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="rand.hpp">
+      <Filter>Header Files\notClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="rand2.h">
+      <Filter>Header Files\notClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="cRoom.h">
+      <Filter>Header Files\containers</Filter>
+    </ClInclude>
+    <ClInclude Include="cCorridor.h">
+      <Filter>Header Files\containers</Filter>
+    </ClInclude>
+    <ClInclude Include="graphic_name.h">
+      <Filter>Header Files\graphic</Filter>
+    </ClInclude>
+    <ClInclude Include="graph_creator.h">
+      <Filter>Header Files\graphic</Filter>
+    </ClInclude>
+    <ClInclude Include="button.h">
+      <Filter>Header Files\graphic</Filter>
+    </ClInclude>
+    <ClInclude Include="scr_with_butt.h">
+      <Filter>Header Files\graphic\screens</Filter>
+    </ClInclude>
+    <ClInclude Include="start_screen.h">
+      <Filter>Header Files\graphic\screens</Filter>
+    </ClInclude>
+    <ClInclude Include="size_level_screen.h">
+      <Filter>Header Files\graphic\screens</Filter>
+    </ClInclude>
+    <ClInclude Include="size_room_screen.h">
+      <Filter>Header Files\graphic\screens</Filter>
+    </ClInclude>
+    <ClInclude Include="difficult_screen.h">
+      <Filter>Header Files\graphic\screens</Filter>
+    </ClInclude>
+    <ClInclude Include="menu_controller.h">
+      <Filter>Header Files\graphic</Filter>
+    </ClInclude>
+    <ClInclude Include="creators_screen.h">
+      <Filter>Header Files\graphic\screens</Filter>
+    </ClInclude>
+    <ClInclude Include="with_map_scr.h">
+      <Filter>Header Files\graphic\screens</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
